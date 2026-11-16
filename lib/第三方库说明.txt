@@ -1,0 +1,13 @@
+第三方库说明
+================
+
+JLayer 1.0.1
+- 用途：仅用于解码 MP3 背景音乐。界面、绘图、文字和文件操作全部由 Java Swing / Java2D 实现。
+- 项目主页：https://www.jlayer.org/
+- 许可证：GNU Lesser General Public License 2.1 (LGPL-2.1)
+- 文件：jlayer-1.0.1.jar
+- 来源：Maven Central，javazoom:jlayer:1.0.1
+
+本作品未修改 JLayer 的源代码，仅以未修改的 jar 形式随作品一起分发。
+LGPL-2.1 许可证全文见同目录的 LGPL-2.1.txt，也可以从
+https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt 获取。
